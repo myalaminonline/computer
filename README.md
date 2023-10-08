@@ -1,2 +1,3 @@
 # computer
-Alamin Online Computer
+Alamin Online
+https://alaminonline.com
